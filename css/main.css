@@ -5,3 +5,48 @@
 .nav-spacing {
     margin: 0 0 0 10px;
 }
+
+.nav-styling {
+    text-decoration: none;
+    color: blue;
+}
+
+.image-link {
+    text-decoration: none;
+}
+
+.header-align {
+    text-align: center;
+    margin: 0 0 80px;
+}
+
+.header-spacing {
+    margin: 0 0 80px;
+}
+
+.image-centering {
+    margin: 0 auto;
+    display: block;
+}
+
+.text-background {
+    width: 560px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.image-roundabout-left {
+    float: left;
+    margin: 0 40px 0 0;
+}
+
+.text-strong {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold; color: #f00;
+}
+
+.table-styling {
+    padding: 10px;
+}
